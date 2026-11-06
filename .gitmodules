@@ -1,0 +1,6 @@
+[submodule "libs/own/viewport"]
+	path = libs/own/viewport
+	url = https://github.com/RalobDev/viewport.git
+[submodule "libs/forks/neo-classic"]
+	path = libs/forks/neo-classic
+	url = https://github.com/RalobDev/neo-classic.git
